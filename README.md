@@ -1,7 +1,6 @@
 # beam-concurreny-examples
-Explore Apache Beam's multi-threading and asynchronous processing capabilities with this repository. Discover practical examples and code snippets demonstrating how to leverage parallelism and concurrency in Apache Beam pipelines. 
 
-Apache Beam is a powerful and flexible stream and batch processing model that allows you to develop data processing pipelines that are portable across various execution engines. When it comes to scaling your Apache Beam pipeline, one key aspect to consider is leveraging multithreading for improved performance.
+Apache Beam is a powerful and flexible stream and batch processing model that allows you to develop data processing pipelines that are portable across various execution engines. When it comes to scaling your Apache Beam pipeline, one key aspect to consider is leveraging multithreading/Asynchronous Programming for improved performance.
 
 > Scaling in Apache Beam with Multi-Threading and Asynchronous Programming
 
