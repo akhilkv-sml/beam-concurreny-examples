@@ -1,4 +1,4 @@
-#Explaination
+# Explanation
 
 You can find two ways of making api calls in this approach. The following function is basic way of making api calls in beam using the request library in python.
 ```
